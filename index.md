@@ -9,12 +9,12 @@
 
 ---
 [Google Digital Days MENA Agile series](https://www.youtube.com/watch?v=8HvrKsvFyLg&t=209s)
-<img src="images/agile.jpg?raw=true"/>
+<img src="images/agile.png?raw=true"/>
 
 
 ---
 [Google Digital Days MENA Maharat series](https://www.youtube.com/watch?v=62eMc6TTxf0&list=PLlqOXLg-GOqcKPvh1UlGz2Vjkt4FAhjNX)
-<img src="images/maharat.jpg?raw=true"/>
+<img src="images/maharat.png?raw=true"/>
 
 ---
 
