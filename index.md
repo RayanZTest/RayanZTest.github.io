@@ -2,22 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Training Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Google DSC Leads Training 2020](https://developers.google.com/community/dsc)
+<img src="images/dsc.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Google Digital Days MENA Agile series](https://www.youtube.com/watch?v=8HvrKsvFyLg&t=209s)
+<img src="images/agile.jpg?raw=true"/>
+
+
+---
+[Google Digital Days MENA Maharat series](https://www.youtube.com/watch?v=62eMc6TTxf0&list=PLlqOXLg-GOqcKPvh1UlGz2Vjkt4FAhjNX)
+<img src="images/maharat.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Coding Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
